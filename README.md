@@ -1,5 +1,5 @@
 # hello-world
 Hello! 
-I begin winnig!
+I begin win!
 P.S.
 my first repository
